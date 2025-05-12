@@ -1,0 +1,11 @@
+species,семейство,вид,тип_клюва,цвет_оперения,цвет_глаз,среда_обитания,размер_тела,скорость,длина_клюва,пока
+Изумрудный колибри,True,True,True,True,True,True,True,True,True,
+Тестовая птица,True,True,True,True,True,True,True,True,,
+Красный кардинал,True,True,True,True,True,True,True,True,True,
+Снегирь,True,True,True,True,True,True,True,True,,
+Утка,True,True,True,True,True,True,True,False,True,
+Синяя сойка,True,True,True,True,True,True,True,True,,
+Сойка пересмешница,True,True,True,True,True,True,True,True,,
+Черный дрозд,True,,,True,True,True,True,True,True,True
+РР,False,,,False,True,True,True,True,,
+Золотой фазан,True,,,True,True,True,True,True,True,
